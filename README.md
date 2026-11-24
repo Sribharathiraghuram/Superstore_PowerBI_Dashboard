@@ -181,6 +181,8 @@ The dashboard consists of three interactive report pages.
 
 ### Page 1 – Executive Overview
 
+![Executive Overview](Executive_Overview.png)
+
 Provides a consolidated view of overall business performance.
 
 **Key Performance Indicators:**
@@ -199,6 +201,8 @@ Provides a consolidated view of overall business performance.
 
 ### Page 2 – Regional Performance
 
+![Regional Performance](Regional_Performance.png)
+
 Focuses on comparing sales and profitability across geographical regions.
 
 **Visualisations:**
@@ -207,6 +211,8 @@ Focuses on comparing sales and profitability across geographical regions.
 - Treemap showing regional sales contribution.
 
 ### Page 3 – Product Profitability
+
+![Product Profitability](Product_Profitability.png)
 
 Provides a detailed analysis of product category and sub-category performance.
 
